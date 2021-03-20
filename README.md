@@ -5,5 +5,5 @@
 - Стараюсь писать чистый читабельный код
 ---
 ### Мой стек:
-<img height="32" width="32" src="file:///C:/Users/Vlad-maker/Downloads/javascript%20(2).svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/visualstudiocode.svg" />
 
