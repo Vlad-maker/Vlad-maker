@@ -12,12 +12,12 @@
 <br />
 
 ### Мой стек:
-<img align="left" height="32" width="32" src="https://simpleicons.org/icons/visualstudiocode.svg" />
+<img align="left" height="32" width="32" src="https://simpleicons.org/icons/visualstudiocode.svg" style="color:red" />
 <img align="left" height="32" width="32" src="https://simpleicons.org/icons/javascript.svg" />
-<img align="left" height="32" width="32" src="https://simpleicons.org/icons/node-dot-js.svg" />
 <img align="left" height="32" width="32" src="https://simpleicons.org/icons/webpack.svg" />
 <img align="left" height="32" width="32" src="https://simpleicons.org/icons/react.svg" />
 <img align="left" height="32" width="32" src="https://simpleicons.org/icons/sass.svg" />
+<img align="left" height="32" width="32" src="https://simpleicons.org/icons/node-dot-js.svg" />
 <img align="left" height="32" width="32" src="https://simpleicons.org/icons/git.svg" />
 <br />
 
