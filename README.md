@@ -5,5 +5,5 @@
 - Стараюсь писать чистый читабельный код
 ---
 ### Мой стек:
-<img height="32" width="32" src="https://simpleicons.org/icons/visualstudiocode.svg" />
-<img height="32" width="32" src="https://simpleicons.org/icons/javascript.svg" />
+<img align="left" height="32" width="32" src="https://simpleicons.org/icons/visualstudiocode.svg" />
+<img align="left" height="32" width="32" src="https://simpleicons.org/icons/javascript.svg" />
