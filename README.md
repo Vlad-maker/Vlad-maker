@@ -5,8 +5,6 @@
 - Осваиваю React
 - Стараюсь писать чистый читабельный код
 
-<br />
-
 ### Мой стек:
 [<img align="left" alt="Vladmaker | VK" width="22px" src="https://simpleicons.org/icons/vk.svg" />](https://vk.com/vladmaker)
 
