@@ -8,7 +8,7 @@
 <br />
 
 ### Мой стек:
-[<img align="left" alt="Vladmaker | VK" width="22px" src="https://simpleicons.org/icons/vk.svg" />][vk]
+[<img align="left" alt="Vladmaker | VK" width="22px" src="https://simpleicons.org/icons/vk.svg" />](https://vk.com/vladmaker)
 
 <br />
 
@@ -24,4 +24,4 @@
 
 <br />
 
-[vk]: https://vk.com/vladmaker
+https://vk.com/vladmaker
