@@ -24,4 +24,3 @@
 
 <br />
 
-https://vk.com/vladmaker
