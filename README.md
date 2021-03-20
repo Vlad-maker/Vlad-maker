@@ -1,9 +1,9 @@
 ### Hellow world!👋 I'm Vlad
 
 #### I'm a FrontEnd Developer in the begining of my career
-- I strive to work with real projects
-- Learn React
-- I try to write clean, readable code
+- 💻 I strive to work with real projects
+- 🌐 Learn React
+- 📝 I try to write clean, readable code
 
 ### Connect with me:
 [<img align="left" alt="Vladmaker | VK" width="22px" src="https://simpleicons.org/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100000976609772)
