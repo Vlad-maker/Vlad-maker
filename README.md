@@ -7,7 +7,7 @@
 
 ### Контакты:
 [<img align="left" alt="Vladmaker | VK" width="22px" src="https://simpleicons.org/icons/vk.svg" />](https://vk.com/vladmaker)
-<img align="left" alt="Vladmaker | VK" width="22px" src="https://simpleicons.org/icons/telegram.svg" />:@OGvLA
+[<img align="left" alt="Vladmaker | VK" width="22px" src="https://simpleicons.org/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100000976609772)
 
 <br />
 
