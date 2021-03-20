@@ -8,7 +8,7 @@
 <br />
 
 ### Мой стек:
-[<img align="left" alt="VladKalachev | VK" width="22px" src="https://simpleicons.org/icons/vk.svg" />][vk]
+[<img align="left" alt="Vladmaker | VK" width="22px" src="https://simpleicons.org/icons/vk.svg" />][vk]
 
 <br />
 
@@ -19,7 +19,7 @@
 <br />
 <br />
 
-<summary>Statistics:</summary>
+Statistics
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vlad-maker&theme=vue&show_icons=true" />
 
 <br />
