@@ -17,9 +17,10 @@
 <img align="left" height="32" width="32" src="https://simpleicons.org/icons/javascript.svg" />
 
 <br />
+<br />
 
-  <summary>:zap: Statistics:</summary>
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vlad-maker&show_icons=true" />
+<summary>:zap: Statistics:</summary>
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vlad-maker&show_icons=true" />
 
 <br />
 
