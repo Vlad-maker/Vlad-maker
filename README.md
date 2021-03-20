@@ -1,4 +1,4 @@
-### Hellow world!👋 I'm Vlad
+### Hello world!👋 I'm Vlad
 
 #### I'm a FrontEnd Developer in the begining of my career
 - 💻 I strive to work with real projects
