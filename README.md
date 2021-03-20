@@ -12,13 +12,13 @@
 <br />
 
 ### Мой стек:
-<img align="left" height="32" width="32" src="https://simpleicons.org/icons/visualstudiocode.svg" class="fa fa-cog" style="color:#000;" />
-<img align="left" height="32" width="32" src="https://simpleicons.org/icons/javascript.svg" />
-<img align="left" height="32" width="32" src="https://simpleicons.org/icons/webpack.svg" />
-<img align="left" height="32" width="32" src="https://simpleicons.org/icons/react.svg" />
-<img align="left" height="32" width="32" src="https://simpleicons.org/icons/sass.svg" />
-<img align="left" height="32" width="32" src="https://simpleicons.org/icons/node-dot-js.svg" />
-<img align="left" height="32" width="32" src="https://simpleicons.org/icons/git.svg" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <br />
 
 ### Statistics:
