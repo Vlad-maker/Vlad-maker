@@ -13,11 +13,12 @@
 
 ### Мой стек:
 <img align="left" height="32" width="32" src="https://simpleicons.org/icons/visualstudiocode.svg" />
-<img align="left" height="32" width="32" src="https://simpleicons.org/icons/javascript.svg" color="#6400AA"/>
 <img align="left" height="32" width="32" src="https://simpleicons.org/icons/javascript.svg" />
-<img align="left" height="32" width="32" src="https://simpleicons.org/icons/javascript.svg" />
-<img align="left" height="32" width="32" src="https://simpleicons.org/icons/javascript.svg" />
-<img align="left" height="32" width="32" src="https://simpleicons.org/icons/javascript.svg" />
+<img align="left" height="32" width="32" src="https://simpleicons.org/icons/node-dot-js.svg" />
+<img align="left" height="32" width="32" src="https://simpleicons.org/icons/react.svg" />
+<img align="left" height="32" width="32" src="https://simpleicons.org/icons/html5.svg" />
+<img align="left" height="32" width="32" src="https://simpleicons.org/icons/css3.svg" />
+<img align="left" height="32" width="32" src="https://simpleicons.org/icons/sass.svg" />
 <br />
 
 ### Statistics:
