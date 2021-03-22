@@ -4,7 +4,7 @@
 - 💻 I strive to work with real projects
 - 🌐 Learn React
 - 📝 I try to write clean, readable code
-
+ 
 ### Connect with me:
 [<img align="left" alt="Vladmaker | VK" width="22px" src="https://simpleicons.org/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100000976609772)
 [<img align="left" alt="Vladmaker | VK" width="22px" src="https://simpleicons.org/icons/vk.svg" />](https://vk.com/vladmaker)
