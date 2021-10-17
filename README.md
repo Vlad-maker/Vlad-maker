@@ -1,8 +1,8 @@
 ### Hello world!👋 I'm Vlad
 
-#### I'm a Front-End Developer in the begining of my career
+#### I'm a Front-End Developer from Saint-Petersburg
 - 💻 I strive to work with real projects 
-- 🌐 Learn React
+- 🌐 Use React
 - 📝 I try to write clean, readable code
  
 ### Connect with me:
