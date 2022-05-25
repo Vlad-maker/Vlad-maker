@@ -1,9 +1,9 @@
 ### Hello world!👋 I'm Vlad
 
 #### I'm a Front-End Developer from Saint-Petersburg
-- 💻 I strive to work with real projects 
-- 🌐 Use React
-- 📝 I try to write clean, readable code
+- 💻 Continuing to develop my JS skills 
+- 🌐 Use React with Styled components
+- 📝 I strive to write clean, readable code
  
 ### Connect with me:
 [<img align="left" alt="Vladmaker | VK" width="22px" src="https://simpleicons.org/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100000976609772)
