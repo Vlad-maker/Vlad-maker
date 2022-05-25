@@ -2,8 +2,9 @@
 
 #### I'm a Front-End Developer from Saint-Petersburg
 - 💻 Continuing to develop my JS skills 
-- 🌐 Use React with Styled components
+- 🚀 Use React with Styled components
 - 📝 I strive to write clean, readable code
+- 🌐 Learning TypeScript
  
 ### Connect with me:
 [<img align="left" alt="Vladmaker | VK" width="22px" src="https://simpleicons.org/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100000976609772)
